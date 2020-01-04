@@ -1,0 +1,2 @@
+# Embedded-System-Video-Game-Project
+This project was a video game written in the C programming language coded in a embedded system environment. Top beat the game, the main character has to find a treasure chest; to find the treasure chest,  the main character has to speak to multiple different Non Player Characters (NPCs) for instructions, travel through a maze to a sonar for search the treasure chest, and grab the treasure chest. There are multiple different features for the game:
